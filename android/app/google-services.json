@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938415700918",
+    "project_id": "apnichat-24c39",
+    "storage_bucket": "apnichat-24c39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938415700918:android:905e59428fd3b41cba5f17",
+        "android_client_info": {
+          "package_name": "com.example.apnichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgO3cg9rXjItWhkzQajjAic1a9ohw0kJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938415700918:android:c44182317aeb0913ba5f17",
+        "android_client_info": {
+          "package_name": "company.apnichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgO3cg9rXjItWhkzQajjAic1a9ohw0kJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

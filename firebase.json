@@ -1,0 +1,29 @@
+{
+  "functions": {
+    "source": "functions",
+    "runtime": "nodejs18"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "apnichat-24c39",
+          "appId": "1:938415700918:android:905e59428fd3b41cba5f17",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "apnichat-24c39",
+          "configurations": {
+            "android": "1:938415700918:android:905e59428fd3b41cba5f17",
+            "ios": "1:938415700918:ios:b0cb8928f658630aba5f17",
+            "macos": "1:938415700918:ios:b0cb8928f658630aba5f17",
+            "web": "1:938415700918:web:bf5179be0ab97fffba5f17",
+            "windows": "1:938415700918:web:9b5f7fd5290c6bf8ba5f17"
+          }
+        }
+      }
+    }
+  }
+}
